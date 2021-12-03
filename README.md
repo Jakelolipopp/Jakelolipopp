@@ -1,5 +1,7 @@
-- Helu, I’m Jake :D
-- Constantly learning everything
-- Hope that you have a great day
+Hello, I’m Jake :D
+Me is:
+- Constantly is learning everything
+- Hopes that you have a great day
 
-- Love you <3
+Love you <3
+:3
