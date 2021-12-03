@@ -1,4 +1,5 @@
-Hello, I’m Jake :D\n
+Hello, I’m Jake :D
+
 Me is:
 - Constantly is learning everything
 - Hopes that you have a great day
