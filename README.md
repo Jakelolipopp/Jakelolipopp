@@ -2,4 +2,4 @@
 - Constantly learning everything
 - Hope that you have a great day
 
-###Love you all <3
+- Love you <3
