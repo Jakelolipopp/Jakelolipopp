@@ -6,4 +6,3 @@ Me is:
 
 
 Love you <3
-:3
